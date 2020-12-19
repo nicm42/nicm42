@@ -1,6 +1,6 @@
 ### Hi, I'm Nic 👋
 
-[!Twitter][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://www.twitter.com/nicm4242)
+![Twitter][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://www.twitter.com/nicm4242)
 
 ![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&theme=monokai)
 

@@ -1,10 +1,14 @@
-### Hi there 👋 I'm Nic
+### Hi, I'm Nic 👋
 
 
 ![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&theme=monokai)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicm42&layout=compact)
+
+## Latest blog posts
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 <!-- **nicm42/nicm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nic
 
 
-![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&title_color=#ff0000)
+![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicm42&layout=compact)

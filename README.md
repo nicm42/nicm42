@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Nic
 
-<!--
+
+[![Nic's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicm42&layout=compact)]
+
 **nicm42/nicm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

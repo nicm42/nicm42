@@ -1,8 +1,8 @@
 ### Hi, I'm Nic 👋
 
-[<img alt="Twitter" src="images/twitter.svg" />](https://www.twitter.com/nicm4242)
+[<img height="32" width="32" alt="Twitter" src="images/twitter.svg" />](https://www.twitter.com/nicm4242)
 
-[<img alt="LinkedIn" src="images/linkedin.svg" />](https://www.linkedin.com/in/nicmayer42/)
+[<img height="32" width="32" alt="LinkedIn" src="images/linkedin.svg" />](https://www.linkedin.com/in/nicmayer42/)
 
 
 ![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&theme=monokai)

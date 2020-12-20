@@ -2,9 +2,8 @@
 
 I'm learning to code, having fun creating web pages and games.
 
-🔭 I’m currently working on Infinite Kittens
-
-🌱 I’m currently learning clip-path and Intersection Observer
+- 🔭 I’m currently working on Infinite Kittens
+- 🌱 I’m currently learning clip-path and Intersection Observer
 
 ## Places you can find me
 

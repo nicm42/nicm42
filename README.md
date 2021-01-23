@@ -15,11 +15,11 @@ I'm learning to code, having fun creating web pages and games.
 
 ## Latest blog posts
 <!-- HASHNODE:START -->
+- [Mentoring at Codebar](https://nicm42.hashnode.dev/mentoring-at-codebar)
 - [Asynchronous JavaScript](https://nicm42.hashnode.dev/asynchronous-javascript)
 - [My Coding Journey](https://nicm42.hashnode.dev/my-coding-journey)
 - [Why I use light mode](https://nicm42.hashnode.dev/why-i-use-light-mode)
 - [JavaScriptmas](https://nicm42.hashnode.dev/javascriptmas)
-- [HTML Accordion](https://nicm42.hashnode.dev/html-accordion)
 <!-- HASHNODE:END -->
 
 <!-- **nicm42/nicm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

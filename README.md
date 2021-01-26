@@ -2,8 +2,8 @@
 
 I'm learning to code, having fun creating web pages and games.
 
-- 🔭 I’m currently working on Infinite Kittens
-- 🌱 I’m currently learning clip-path and Intersection Observer
+- 🔭 I’m currently working on updating my portfolio
+- 🌱 I’m currently learning React
 
 ## Places you can find me
 
@@ -14,6 +14,7 @@ I'm learning to code, having fun creating web pages and games.
 ![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&theme=monokai&hide=issues,contribs&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicm42&layout=compact)
 
 ## Latest blog posts
+
 <!-- HASHNODE:START -->
 - [Mentoring at Codebar](https://nicm42.hashnode.dev/mentoring-at-codebar)
 - [Asynchronous JavaScript](https://nicm42.hashnode.dev/asynchronous-javascript)

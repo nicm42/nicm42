@@ -16,11 +16,11 @@ I'm learning to code, having fun creating web pages and games.
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Why use functions?](https://nicm42.hashnode.dev/why-use-functions)
 - [Getting out of my comfort zone](https://nicm42.hashnode.dev/getting-out-of-my-comfort-zone)
 - [A lesson learnt about design from card making](https://nicm42.hashnode.dev/a-lesson-learnt-about-design-from-card-making)
 - [Gulp vs Parcel vs Webpack](https://nicm42.hashnode.dev/gulp-vs-parcel-vs-webpack)
 - [Mentoring at Codebar](https://nicm42.hashnode.dev/mentoring-at-codebar)
-- [Asynchronous JavaScript](https://nicm42.hashnode.dev/asynchronous-javascript)
 <!-- HASHNODE:END -->
 
 <!-- **nicm42/nicm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

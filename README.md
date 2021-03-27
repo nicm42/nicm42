@@ -16,11 +16,11 @@ I'm learning to code, having fun creating web pages and games.
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Navigating with the keyboard](https://nicm42.hashnode.dev/navigating-with-the-keyboard)
 - [Closing a navigation menu in React](https://nicm42.hashnode.dev/closing-a-navigation-menu-in-react)
 - [React refs in a loop](https://nicm42.hashnode.dev/react-refs-in-a-loop)
 - [Whether to update old code](https://nicm42.hashnode.dev/whether-to-update-old-code)
 - [Fading in... and fading out with CSS transitions](https://nicm42.hashnode.dev/fading-in-and-fading-out-with-css-transitions)
-- [Why use functions?](https://nicm42.hashnode.dev/why-use-functions)
 <!-- HASHNODE:END -->
 
 <!-- **nicm42/nicm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

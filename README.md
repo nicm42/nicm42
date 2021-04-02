@@ -2,7 +2,7 @@
 
 I'm learning to code, having fun creating web pages and games.
 
-- 🔭 I’m currently working on The Newport Group website
+- 🔭 I’m currently working on the FreeCodeCamp Front End Development Libraries projects
 - 🌱 I’m currently learning React
 
 ## Places you can find me

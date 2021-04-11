@@ -2,8 +2,8 @@
 
 I'm learning to code, having fun creating web pages and games.
 
-- 🔭 I’m currently working on the FreeCodeCamp Front End Development Libraries projects
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on an open source project and a solo project for Chingu
+- 🌱 I’m currently learning React and Styled Components
 
 ## Places you can find me
 

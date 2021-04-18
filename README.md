@@ -9,7 +9,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 ## Skills
 
-<img height="32" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" /><img height="32" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" /><img height="32" alt="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /><img height="32" alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /><img height="32" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /><img height="32" alt="Gulp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" /><img height="32" alt="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain-wordmark.svg" /><img height="32" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" />
+<img height="32" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" /><img height="32" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" /><img height="32" alt="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /><img height="32" alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /><img height="32" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /><img height="32" alt="Gulp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" /><img height="32" alt="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain-wordmark.svg" /><img height="32" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" />
                                                                                                                                            
 ---
 
@@ -36,6 +36,8 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 - [Navigating with the keyboard](https://nicm42.hashnode.dev/navigating-with-the-keyboard)
 - [Closing a navigation menu in React](https://nicm42.hashnode.dev/closing-a-navigation-menu-in-react)
 <!-- HASHNODE:END -->
+
+[...more blog posts](https://nicm42.hashnode.dev/)
 
 <!-- **nicm42/nicm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

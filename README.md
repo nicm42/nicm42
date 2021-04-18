@@ -11,7 +11,7 @@ I'm learning to code, having fun creating web pages and games.
 
 ## Stats
 
-![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&theme=monokai&hide=issues,contribs&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicm42&layout=compact)
+![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicm42&show_icons=true&hide_rank=true&title_color=f1262e&icon_color=f1262e) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicm42&layout=compact)
 
 ## Latest blog posts
 

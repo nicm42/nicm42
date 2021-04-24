@@ -30,11 +30,11 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
-- [Combining SASS variables with CSS custom properties](https://nicm42.hashnode.dev/combining-sass-variables-with-css-custom-properties)
-- [React: running something only after state hook has updated](https://nicm42.hashnode.dev/react-running-something-only-after-state-hook-has-updated)
-- [Another 100 days](https://nicm42.hashnode.dev/another-100-days)
-- [Navigating with the keyboard](https://nicm42.hashnode.dev/navigating-with-the-keyboard)
-- [Closing a navigation menu in React](https://nicm42.hashnode.dev/closing-a-navigation-menu-in-react)
+- [Combining SASS variables with CSS custom properties](https://blog.nicm42.co.uk/combining-sass-variables-with-css-custom-properties)
+- [React: running something only after state hook has updated](https://blog.nicm42.co.uk/react-running-something-only-after-state-hook-has-updated)
+- [Another 100 days](https://blog.nicm42.co.uk/another-100-days)
+- [Navigating with the keyboard](https://blog.nicm42.co.uk/navigating-with-the-keyboard)
+- [Closing a navigation menu in React](https://blog.nicm42.co.uk/closing-a-navigation-menu-in-react)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

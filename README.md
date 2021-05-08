@@ -30,11 +30,11 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Should I put my input and button in a form?](https://blog.nicm42.co.uk/should-i-put-my-input-and-button-in-a-form)
 - [Conditionally rendering JSX in React functions](https://blog.nicm42.co.uk/conditionally-rendering-jsx-in-react-functions)
 - [Loops in SCSS](https://blog.nicm42.co.uk/loops-in-scss)
 - [Combining SASS variables with CSS custom properties](https://blog.nicm42.co.uk/combining-sass-variables-with-css-custom-properties)
 - [React: running something only after state hook has updated](https://blog.nicm42.co.uk/react-running-something-only-after-state-hook-has-updated)
-- [Another 100 days](https://blog.nicm42.co.uk/another-100-days)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

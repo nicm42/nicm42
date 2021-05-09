@@ -2,7 +2,7 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
-- 🔭 I’m currently working on a solo project for Chingu and updating an old project to use TypeScript
+- 🔭 I’m currently working on a solo project for Chingu
 - 🌱 I’m currently learning React, Styled Components and TypeScript
 
 ---

@@ -30,11 +30,11 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Do I know enough to coach at codebar?](https://blog.nicm42.co.uk/do-i-know-enough-to-coach-at-codebar)
 - [Controlled vs uncontrolled forms in React](https://blog.nicm42.co.uk/controlled-vs-uncontrolled-forms-in-react)
 - [Practical tips for improving your stress levels](https://blog.nicm42.co.uk/practical-tips-for-improving-your-stress-levels)
 - [JavaScript try...catch](https://blog.nicm42.co.uk/javascript-trycatch)
 - [Debugging by taking a break](https://blog.nicm42.co.uk/debugging-by-taking-a-break)
-- [Should I put my input and button in a form?](https://blog.nicm42.co.uk/should-i-put-my-input-and-button-in-a-form)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

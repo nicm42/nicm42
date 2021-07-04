@@ -3,7 +3,8 @@
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
 - 🔭 I’m currently deciding which project to work on next
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node and Express
+- ⚡ I’m currently satisfying my curiosity about Golang
 
 ---
 

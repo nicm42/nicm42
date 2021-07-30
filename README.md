@@ -28,6 +28,27 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 ---
 
+## Projects
+These were all designed myself
+- [The Newport Group](https://github.com/nicm42/The-Newport-Group)
+- [Altnerative Ipsum Posts](https://github.com/nicm42/wordpress-lorem)
+- [Red Dwarf XII Logo Animation](https://github.com/nicm42/Red-Dwarf-XII-animation)
+- [Book Search](https://github.com/nicm42/Bookfinder)
+- [Guess the Number](https://github.com/nicm42/Guess-the-Number)
+- [Click the Shape](https://github.com/nicm42/clickthedot)
+
+---
+
+## Frontend Mentor Projects
+These were created from designs given as jpgs
+- [IP Address Tracker](https://github.com/nicm42/ip-address-tracker)
+- [FAQ Accordion Card](https://github.com/nicm42/faq-accordion-card-main)
+- [Single Price Grid Component](https://github.com/nicm42/single-price-grid-component)
+- [Four Card Feature Section](https://github.com/nicm42/four-card-feature-section)
+- [Manage Landing Page](https://github.com/nicm42/Manage-Landing-Page)
+
+---
+
 ## Latest blog posts
 
 <!-- HASHNODE:START -->

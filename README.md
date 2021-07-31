@@ -28,7 +28,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 ---
 
-## Projects
+## Personal Projects
 These were all designed myself
 - [The Newport Group](https://github.com/nicm42/The-Newport-Group)
 - [Altnerative Ipsum Posts](https://github.com/nicm42/wordpress-lorem)

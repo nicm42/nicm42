@@ -4,7 +4,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 - 🔭 I’m currently working on a Frontend Mentor project using logical properties and Rollup
 - 🌱 I’m currently learning Node and Express
-- ⚡ I’m currently satisfying my curiosity about Flutter
+- ⚡ I’m currently satisfying my curiosity about Java
 
 ---
 

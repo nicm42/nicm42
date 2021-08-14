@@ -4,7 +4,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 - 🔭 I’m currently working on a Frontend Mentor project using logical properties and Rollup
 - 🌱 I’m currently learning Drupal
-- ⚡ I’m currently satisfying my curiosity about Java
+- ⚡ I’m currently satisfying my curiosity about Ruby on Rails
 
 ---
 

@@ -52,11 +52,11 @@ These were created from designs given as jpgs
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [JS Keyboard events](https://blog.nicm42.co.uk/js-keyboard-events)
 - [Another 100 days of code](https://blog.nicm42.co.uk/another-100-days-of-code)
 - [Updating a state hook object](https://blog.nicm42.co.uk/updating-a-state-hook-object)
 - [Using GitHub Actions](https://blog.nicm42.co.uk/using-github-actions)
 - [Why TypeScript is useful](https://blog.nicm42.co.uk/why-typescript-is-useful)
-- [React: Context, Custom hooks and multiple components problem](https://blog.nicm42.co.uk/react-context-custom-hooks-and-multiple-components-problem)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

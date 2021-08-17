@@ -2,7 +2,7 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
-- 🔭 I’m currently working on a Frontend Mentor project using logical properties and Rollup
+- 🔭 I’m currently between projects
 - 🌱 I’m currently learning Drupal
 - ⚡ I’m currently satisfying my curiosity about Ruby on Rails
 
@@ -40,7 +40,8 @@ These were all designed myself
 ---
 
 ## Frontend Mentor Projects
-These were created from designs given as jpgs
+These were created from designs given as jpgs or in Figma
+- [Article Preview](https://github.com/nicm42/article-preview)
 - [IP Address Tracker](https://github.com/nicm42/ip-address-tracker)
 - [FAQ Accordion Card](https://github.com/nicm42/faq-accordion-card-main)
 - [Single Price Grid Component](https://github.com/nicm42/single-price-grid-component)

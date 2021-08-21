@@ -4,7 +4,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 - 🔭 I’m currently between projects
 - 🌱 I’m currently learning Drupal
-- ⚡ I’m currently satisfying my curiosity about Ruby on Rails
+- ⚡ I’m currently satisfying my curiosity about Fortran
 
 ---
 

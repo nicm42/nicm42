@@ -53,11 +53,11 @@ These were created from designs given as jpgs or in Figma
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [CSS Logical Properties](https://blog.nicm42.co.uk/css-logical-properties)
 - [JS Keyboard events](https://blog.nicm42.co.uk/js-keyboard-events)
 - [Another 100 days of code](https://blog.nicm42.co.uk/another-100-days-of-code)
 - [Updating a state hook object](https://blog.nicm42.co.uk/updating-a-state-hook-object)
 - [Using GitHub Actions](https://blog.nicm42.co.uk/using-github-actions)
-- [Why TypeScript is useful](https://blog.nicm42.co.uk/why-typescript-is-useful)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

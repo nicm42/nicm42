@@ -3,8 +3,8 @@
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
 - 🔭 I’m currently between projects
-- 🌱 I’m currently learning Drupal
-- ⚡ I’m currently satisfying my curiosity about Fortran
+- 🌱 I’m currently learning Drupal and Svelte
+- ⚡ I’m currently satisfying my curiosity about Rust
 
 ---
 

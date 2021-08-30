@@ -2,7 +2,7 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
-- 🔭 I’m currently working on the Spaceship Store in Drupal and Click the Shape in Svelte
+- 🔭 I’m currently working on the Spaceship Store in Drupal, Click the Shape in Svelte and a Frontend Mentor project using Snowpack
 - 🌱 I’m currently learning Drupal and Svelte
 - ⚡ I’m currently satisfying my curiosity about Rust
 

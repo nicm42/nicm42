@@ -4,7 +4,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 - 🔭 I’m currently working on the Spaceship Store in Drupal and Click the Shape in Svelte
 - 🌱 I’m currently learning Drupal and Svelte
-- ⚡ I’m currently satisfying my curiosity about MongoDB
+- ⚡ I’m currently satisfying my curiosity about SQL
 
 ---
 

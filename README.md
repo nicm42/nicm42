@@ -54,11 +54,11 @@ These were created from designs given as jpgs or in Figma
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Code splitting in SCSS](https://blog.nicm42.co.uk/code-splitting-in-scss)
 - [Code splitting with CSS and JS](https://blog.nicm42.co.uk/code-splitting-with-css-and-js)
 - [What a word processor taught me about HTML](https://blog.nicm42.co.uk/what-a-word-processor-taught-me-about-html)
 - [CSS Logical Properties](https://blog.nicm42.co.uk/css-logical-properties)
 - [JS Keyboard events](https://blog.nicm42.co.uk/js-keyboard-events)
-- [Another 100 days of code](https://blog.nicm42.co.uk/another-100-days-of-code)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

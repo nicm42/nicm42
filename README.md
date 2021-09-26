@@ -2,7 +2,7 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
-- 🔭 I’m currently working on the Spaceship Store in Drupal and Click the Shape in Svelte and a Frontend Mentor project
+- 🔭 I’m currently working on the Spaceship Store in Drupal and Click the Shape in Svelte
 - 🌱 I’m currently learning Drupal and Svelte
 - ⚡ I’m currently satisfying my curiosity about Perl
 
@@ -41,6 +41,7 @@ These were all designed myself
 
 ## Frontend Mentor Projects
 These were created from designs given as jpgs or in Figma
+- [Time Tracking Dashboard](https://github.com/nicm42/time-tracking-dashboard)
 - [Loopstudios Landing Page](https://github.com/nicm42/loopstudios-landing-page)
 - [Article Preview](https://github.com/nicm42/article-preview)
 - [IP Address Tracker](https://github.com/nicm42/ip-address-tracker)

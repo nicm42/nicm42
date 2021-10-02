@@ -4,7 +4,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 - 🔭 I’m currently working on the Click the Shape in Svelte
 - 🌱 I’m currently learning Drupal and Svelte
-- ⚡ I’m currently satisfying my curiosity about Perl
+- ⚡ I’m currently satisfying my curiosity about F#
 
 ---
 

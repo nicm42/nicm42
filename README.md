@@ -55,11 +55,11 @@ These were created from designs given as jpgs or in Figma
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Linux (yes, Hashnode, this is a meaningful title)](https://blog.nicm42.co.uk/linux-yes-hashnode-this-is-a-meaningful-title)
 - [Connecting Express backend to Javascript frontend](https://blog.nicm42.co.uk/connecting-express-backend-to-javascript-frontend)
 - [Multiple buttons looking like they're staying pressed - one at a time](https://blog.nicm42.co.uk/multiple-buttons-looking-like-theyre-staying-pressed-one-at-a-time)
 - [How to make a button looked like it's staying pressed down](https://blog.nicm42.co.uk/how-to-make-a-button-looked-like-its-staying-pressed-down)
 - [Bundler comparison](https://blog.nicm42.co.uk/bundler-comparison)
-- [Touch typing](https://blog.nicm42.co.uk/touch-typing)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

@@ -55,11 +55,11 @@ These were created from designs given as jpgs or in Figma
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Praise for the Pomodoro Timer](https://blog.nicm42.co.uk/praise-for-the-pomodoro-timer)
 - [Ternary operators in JavaScript](https://blog.nicm42.co.uk/ternary-operators-in-javascript)
 - [Advent](https://blog.nicm42.co.uk/advent)
 - [The worst websites](https://blog.nicm42.co.uk/the-worst-websites)
 - [Creating stars using canvas](https://blog.nicm42.co.uk/creating-stars-using-canvas)
-- [The wrong and right way to make a link look like a button](https://blog.nicm42.co.uk/the-wrong-and-right-way-to-make-a-link-look-like-a-button)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

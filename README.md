@@ -55,11 +55,11 @@ These were created from designs given as jpgs or in Figma
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [The problem with sticky headers and sticky sidebars](https://blog.nicm42.co.uk/the-problem-with-sticky-headers-and-sticky-sidebars)
 - [2021 review and 2022 goals](https://blog.nicm42.co.uk/2021-review-and-2022-goals)
 - [HTML Canvas Fireworks](https://blog.nicm42.co.uk/html-canvas-fireworks)
 - [JavaScript setInterval and setTimer](https://blog.nicm42.co.uk/javascript-setinterval-and-settimer)
 - [Praise for the Pomodoro Timer](https://blog.nicm42.co.uk/praise-for-the-pomodoro-timer)
-- [Ternary operators in JavaScript](https://blog.nicm42.co.uk/ternary-operators-in-javascript)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

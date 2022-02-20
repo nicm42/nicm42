@@ -55,11 +55,11 @@ These were created from designs given as jpgs or in Figma
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [SCSS and JS Fireworks](https://blog.nicm42.co.uk/scss-and-js-fireworks)
 - [CSS: overriding styles](https://blog.nicm42.co.uk/css-overriding-styles)
 - [Coding lessons from cross stitch](https://blog.nicm42.co.uk/coding-lessons-from-cross-stitch)
 - [Creating stars using SCSS](https://blog.nicm42.co.uk/creating-stars-using-scss)
 - [Creating stars using JavaScript](https://blog.nicm42.co.uk/creating-stars-using-javascript)
-- [The problem with sticky headers and sticky sidebars](https://blog.nicm42.co.uk/the-problem-with-sticky-headers-and-sticky-sidebars)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

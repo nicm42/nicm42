@@ -2,9 +2,9 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
-- 🔭 I’m currently working on the Click the Shape in Svelte
+<!-- 🔭 I’m currently working on the Click the Shape in Svelte
 - 🌱 I’m currently learning Drupal and Svelte
-- ⚡ I’m currently satisfying my curiosity about C++
+- ⚡ I’m currently satisfying my curiosity about C++-->
 
 ---
 
@@ -49,6 +49,15 @@ These were created from designs given as jpgs or in Figma
 - [Single Price Grid Component](https://github.com/nicm42/single-price-grid-component)
 - [Four Card Feature Section](https://github.com/nicm42/four-card-feature-section)
 - [Manage Landing Page](https://github.com/nicm42/Manage-Landing-Page)
+
+---
+
+## CodePen
+A few things I've written on CodePen
+- [HTML Canvas Stars](https://codepen.io/nicm42/pen/PoKgpLy)
+- [JS Stars](https://codepen.io/nicm42/pen/VwMJKdx)
+- [SCSS Stars](https://codepen.io/nicm42/pen/wvPKzNg)
+- [SCSS and JS Fireworks](https://codepen.io/nicm42/pen/ExbZmPy)
 
 ---
 

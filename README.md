@@ -64,11 +64,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [A typical work day](https://blog.nicm42.co.uk/a-typical-work-day)
 - [How I organise myself and my work](https://blog.nicm42.co.uk/how-i-organise-myself-and-my-work)
 - [Links inside li that take up all the space](https://blog.nicm42.co.uk/links-inside-li-that-take-up-all-the-space)
 - [Women in Tech](https://blog.nicm42.co.uk/women-in-tech)
 - [Getting a dev job](https://blog.nicm42.co.uk/getting-a-dev-job)
-- [SCSS and JS Fireworks](https://blog.nicm42.co.uk/scss-and-js-fireworks)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

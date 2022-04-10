@@ -64,11 +64,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [How top and translate work together to centre a div](https://blog.nicm42.co.uk/how-top-and-translate-work-together-to-centre-a-div)
 - [Moving a div upwards](https://blog.nicm42.co.uk/moving-a-div-upwards)
 - [A typical work day](https://blog.nicm42.co.uk/a-typical-work-day)
 - [How I organise myself and my work](https://blog.nicm42.co.uk/how-i-organise-myself-and-my-work)
 - [Links inside li that take up all the space](https://blog.nicm42.co.uk/links-inside-li-that-take-up-all-the-space)
-- [Women in Tech](https://blog.nicm42.co.uk/women-in-tech)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

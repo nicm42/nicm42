@@ -58,6 +58,7 @@ A few things I've written on CodePen
 - [JS Stars](https://codepen.io/nicm42/pen/VwMJKdx)
 - [SCSS Stars](https://codepen.io/nicm42/pen/wvPKzNg)
 - [SCSS and JS Fireworks](https://codepen.io/nicm42/pen/ExbZmPy)
+- [Fireworks on click](https://codepen.io/nicm42/pen/ExQYryx)
 
 ---
 

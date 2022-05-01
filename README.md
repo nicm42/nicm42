@@ -65,11 +65,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
-- [Fireworks on click](https://blog.nicm42.co.uk/fireworks-on-click)
 - [Using position absolute in a grid](https://blog.nicm42.co.uk/using-position-absolute-in-a-grid)
 - [How top and translate work together to centre a div](https://blog.nicm42.co.uk/how-top-and-translate-work-together-to-centre-a-div)
 - [Moving a div upwards](https://blog.nicm42.co.uk/moving-a-div-upwards)
 - [A typical work day](https://blog.nicm42.co.uk/a-typical-work-day)
+- [How I organise myself and my work](https://blog.nicm42.co.uk/how-i-organise-myself-and-my-work)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

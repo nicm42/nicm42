@@ -2,6 +2,8 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
+🔭 I’m currently working on a React Mock Challenge and Advent of CSS and JS challenges.
+
 <!-- 🔭 I’m currently working on the Click the Shape in Svelte
 - 🌱 I’m currently learning Drupal and Svelte
 - ⚡ I’m currently satisfying my curiosity about C++-->

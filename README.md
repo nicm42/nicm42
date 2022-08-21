@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
-- [Showing the middle of an image](https://blog.nicm42.co.uk/showing-the-middle-of-an-image)
 - [Add to the DOM with JavaScript](https://blog.nicm42.co.uk/add-to-the-dom-with-javascript)
 - [overflow: clip](https://blog.nicm42.co.uk/overflow-clip)
 - [How I got into coding: via my dad](https://blog.nicm42.co.uk/how-i-got-into-coding-via-my-dad)
 - [Separate array of arrays into arrays](https://blog.nicm42.co.uk/separate-array-of-arrays-into-arrays)
+- [Using CSS Grid to put elements on top of each other](https://blog.nicm42.co.uk/using-css-grid-to-put-elements-on-top-of-each-other)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

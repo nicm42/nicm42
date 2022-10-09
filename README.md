@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Vanilla Extract](https://blog.nicm42.co.uk/vanilla-extract)
 - [Card with an image and rounded borders](https://blog.nicm42.co.uk/card-with-an-image-and-rounded-borders)
 - [Breaking a background out of its container](https://blog.nicm42.co.uk/breaking-a-background-out-of-its-container)
 - [Showing the middle of an image](https://blog.nicm42.co.uk/showing-the-middle-of-an-image)
 - [Add to the DOM with JavaScript](https://blog.nicm42.co.uk/add-to-the-dom-with-javascript)
-- [overflow: clip](https://blog.nicm42.co.uk/overflow-clip)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

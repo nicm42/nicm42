@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Dev Retro 2022 - being a front end developer](https://blog.nicm42.co.uk/dev-retro-2022-being-a-front-end-developer)
 - [Commenting code](https://blog.nicm42.co.uk/commenting-code)
 - [Navigating the internet using only the keyboard](https://blog.nicm42.co.uk/navigating-the-internet-using-only-the-keyboard)
 - [One year as a developer](https://blog.nicm42.co.uk/one-year-as-a-developer)
 - [Alpine JS](https://blog.nicm42.co.uk/alpine-js)
-- [Vanilla Extract](https://blog.nicm42.co.uk/vanilla-extract)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

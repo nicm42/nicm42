@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [A button with an arrow that moves on hover](https://blog.nicm42.co.uk/a-button-with-an-arrow-that-moves-on-hover)
 - [My CSS mistakes](https://blog.nicm42.co.uk/my-css-mistakes)
 - [Vitest](https://blog.nicm42.co.uk/vitest)
 - [PostCSS](https://blog.nicm42.co.uk/postcss)
 - [Navigating the internet with JavaScript turned off](https://blog.nicm42.co.uk/navigating-the-internet-with-javascript-turned-off)
-- [Navigating the internet using only the screen reader](https://blog.nicm42.co.uk/navigating-the-internet-using-only-the-screen-reader)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

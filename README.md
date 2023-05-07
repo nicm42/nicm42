@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Button with border gradient](https://blog.nicm42.co.uk/button-with-border-gradient)
 - [CSS Battle 22](https://blog.nicm42.co.uk/css-battle-22)
 - [A button with an arrow that moves on hover](https://blog.nicm42.co.uk/a-button-with-an-arrow-that-moves-on-hover)
 - [My CSS mistakes](https://blog.nicm42.co.uk/my-css-mistakes)
 - [Vitest](https://blog.nicm42.co.uk/vitest)
-- [PostCSS](https://blog.nicm42.co.uk/postcss)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

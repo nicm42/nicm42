@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [The Mighty MutationObserver](https://blog.nicm42.co.uk/the-mighty-mutationobserver)
 - [Website speed](https://blog.nicm42.co.uk/website-speed)
 - [A use case for :is](https://blog.nicm42.co.uk/a-use-case-for-is)
 - [CSS Modules](https://blog.nicm42.co.uk/css-modules)
 - [My experience with Vue](https://blog.nicm42.co.uk/my-experience-with-vue)
-- [Button with border gradient](https://blog.nicm42.co.uk/button-with-border-gradient)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

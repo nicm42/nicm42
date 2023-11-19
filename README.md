@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Link with a line after which change places on hover](https://blog.nicm42.co.uk/link-with-a-line-after-which-change-places-on-hover)
 - [Using the keyboard on Murdle cards](https://blog.nicm42.co.uk/using-the-keyboard-on-murdle-cards)
 - [The Mighty MutationObserver](https://blog.nicm42.co.uk/the-mighty-mutationobserver)
 - [Website speed](https://blog.nicm42.co.uk/website-speed)
 - [A use case for :is](https://blog.nicm42.co.uk/a-use-case-for-is)
-- [CSS Modules](https://blog.nicm42.co.uk/css-modules)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

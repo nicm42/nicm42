@@ -2,7 +2,7 @@
 
 I'm a Front End Developer, having fun creating web pages, games and anything else that takes my fancy.
 
-- 🔭 I’m currently working on a React app about Doctor Who and The Bill.
+- 🔭 I’m currently working on an app to track books I've acquired and read.
 - ⚡ I’m currently revising React
 
 <!-- 🔭 I’m currently working on the Click the Shape in Svelte

@@ -70,11 +70,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Scroll Timeline](https://blog.nicm42.co.uk/scroll-timeline)
 - [Flip Cards](https://blog.nicm42.co.uk/flip-cards)
 - [Focus trap](https://blog.nicm42.co.uk/focus-trap)
 - [Using :has as a previous sibling selector](https://blog.nicm42.co.uk/using-has-as-a-previous-sibling-selector)
 - [Link with a line after which change places on hover](https://blog.nicm42.co.uk/link-with-a-line-after-which-change-places-on-hover)
-- [Using the keyboard on Murdle cards](https://blog.nicm42.co.uk/using-the-keyboard-on-murdle-cards)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

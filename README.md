@@ -20,7 +20,7 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 ## Places you can find me
 
-[<img height="32" width="32" alt="Twitter" src="images/twitter.svg" />](https://www.twitter.com/nicm4242) [<img height="32" width="32" alt="LinkedIn" src="images/linkedin.svg" />](https://www.linkedin.com/in/nicmayer42/)
+[<img height="32" width="32" alt="LinkedIn" src="images/linkedin.svg" />](https://www.linkedin.com/in/nicmayer42/)
 
 
 ---

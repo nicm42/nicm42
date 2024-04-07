@@ -67,11 +67,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Using a Mac for the first time](https://blog.nicm42.co.uk/using-a-mac-for-the-first-time)
 - [Camp Activities: Lego theme](https://blog.nicm42.co.uk/camp-activities-lego-theme)
 - [Fake rounded corners](https://blog.nicm42.co.uk/fake-rounded-corners)
 - [Tailwind CSS](https://blog.nicm42.co.uk/tailwind-css)
 - [Scroll Timeline](https://blog.nicm42.co.uk/scroll-timeline)
-- [Flip Cards](https://blog.nicm42.co.uk/flip-cards)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

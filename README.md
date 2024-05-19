@@ -67,11 +67,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Animated border](https://blog.nicm42.co.uk/animated-border)
 - [Earth Day Celebration Landing Page](https://blog.nicm42.co.uk/earth-day-celebration-landing-page)
 - [Using a Mac for the first time](https://blog.nicm42.co.uk/using-a-mac-for-the-first-time)
 - [Camp Activities: Lego theme](https://blog.nicm42.co.uk/camp-activities-lego-theme)
 - [Fake rounded corners](https://blog.nicm42.co.uk/fake-rounded-corners)
-- [Tailwind CSS](https://blog.nicm42.co.uk/tailwind-css)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

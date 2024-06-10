@@ -32,12 +32,13 @@ I'm a Front End Developer, having fun creating web pages, games and anything els
 
 ## Personal Projects
 These were all designed myself
-- [The Newport Group](https://github.com/nicm42/The-Newport-Group)
-- [Altnerative Ipsum Posts](https://github.com/nicm42/wordpress-lorem)
-- [Red Dwarf XII Logo Animation](https://github.com/nicm42/Red-Dwarf-XII-animation)
-- [Book Search](https://github.com/nicm42/Bookfinder)
+- [Guess the Number](https://github.com/nicm42/guess-the-number-vue)
+- [Book Charting](https://github.com/nicm42/book-charting)
+- [Murdle Cards](https://github.com/nicm42/murdle-cards)
+- [Book Tracker](https://github.com/nicm42/book-tracker)
 - [Guess the Number](https://github.com/nicm42/Guess-the-Number)
-- [Click the Shape](https://github.com/nicm42/clickthedot)
+- [Doctor Who and The Bill](https://github.com/nicm42/doctor-who-and-the-bill)
+- [Pin the Tail on the Donkey](https://github.com/nicm42/pin-the-tail)
 
 ---
 

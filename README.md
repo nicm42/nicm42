@@ -69,11 +69,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [An A to Z of CSS](https://blog.nicm42.co.uk/an-a-to-z-of-css)
 - [aria-live](https://blog.nicm42.co.uk/aria-live)
 - [Spotlight on hidden background](https://blog.nicm42.co.uk/spotlight-on-hidden-background)
 - [Converting px in SCSS](https://blog.nicm42.co.uk/converting-px-in-scss)
 - [Accessibility on TV](https://blog.nicm42.co.uk/accessibility-on-tv)
-- [Animated border](https://blog.nicm42.co.uk/animated-border)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

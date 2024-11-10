@@ -69,11 +69,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [CSS is important &lpar;or should that be !important?&rpar;](https://blog.nicm42.co.uk/css-is-important-or-should-that-be-important)
 - [A formative experience](https://blog.nicm42.co.uk/a-formative-experience)
 - [Flowtime &lpar;ish&rpar;](https://blog.nicm42.co.uk/flowtime-ish)
 - [An A to Z of CSS](https://blog.nicm42.co.uk/an-a-to-z-of-css)
 - [aria-live](https://blog.nicm42.co.uk/aria-live)
-- [Spotlight on hidden background](https://blog.nicm42.co.uk/spotlight-on-hidden-background)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

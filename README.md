@@ -69,11 +69,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Review of 2024](https://blog.nicm42.co.uk/review-of-2024)
 - [Button type button](https://blog.nicm42.co.uk/button-type-button)
 - [CSS is important &lpar;or should that be !important?&rpar;](https://blog.nicm42.co.uk/css-is-important-or-should-that-be-important)
 - [A formative experience](https://blog.nicm42.co.uk/a-formative-experience)
 - [Flowtime &lpar;ish&rpar;](https://blog.nicm42.co.uk/flowtime-ish)
-- [An A to Z of CSS](https://blog.nicm42.co.uk/an-a-to-z-of-css)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

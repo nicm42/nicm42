@@ -69,11 +69,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
-- [Accessible toggle](https://blog.nicm42.co.uk/accessible-toggle)
-- [Review of 2024](https://blog.nicm42.co.uk/review-of-2024)
-- [Button type button](https://blog.nicm42.co.uk/button-type-button)
-- [CSS is important &lpar;or should that be !important?&rpar;](https://blog.nicm42.co.uk/css-is-important-or-should-that-be-important)
-- [A formative experience](https://blog.nicm42.co.uk/a-formative-experience)
+- [Accessible toggle](https://dev.to/nicm42/accessible-toggle-397i)
+- [Review of 2024](https://dev.to/nicm42/review-of-2024-14k3)
+- [Button type button](https://dev.to/nicm42/button-type-button-27h6)
+- [CSS is important &lpar;or should that be !important?&rpar;](https://dev.to/nicm42/css-is-important-or-should-that-be-important-4418)
+- [A formative experience](https://dev.to/nicm42/a-formative-experience-1g63)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

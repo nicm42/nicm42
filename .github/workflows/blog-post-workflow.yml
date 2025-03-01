@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://nicm42.hashnode.dev/rss.xml"
+          commit_message: "Updated readme with the latest dev.to Blog data"
+          feed_list: "https://dev.to/feed/nicm42"

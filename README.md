@@ -69,11 +69,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Using ChatGPT](https://dev.to/nicm42/using-chatgpt-ppp)
 - [Select keyboard controls](https://dev.to/nicm42/select-keyboard-controls-4fek)
 - [Accessible toggle](https://dev.to/nicm42/accessible-toggle-397i)
 - [Review of 2024](https://dev.to/nicm42/review-of-2024-14k3)
 - [Button type button](https://dev.to/nicm42/button-type-button-27h6)
-- [CSS is important &lpar;or should that be !important?&rpar;](https://dev.to/nicm42/css-is-important-or-should-that-be-important-4418)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

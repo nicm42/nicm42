@@ -69,11 +69,11 @@ A few things I've written on CodePen
 ## Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Transitioning display: none](https://dev.to/nicm42/transitioning-display-none-10kk)
 - [Styling sibling hover and none hover](https://dev.to/nicm42/styling-sibling-hover-and-none-hover-5bdl)
 - [The scripting media query](https://dev.to/nicm42/the-scripting-media-query-2i7g)
 - [Using ChatGPT](https://dev.to/nicm42/using-chatgpt-ppp)
 - [Select keyboard controls](https://dev.to/nicm42/select-keyboard-controls-4fek)
-- [Accessible toggle](https://dev.to/nicm42/accessible-toggle-397i)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)

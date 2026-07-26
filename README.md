@@ -53,11 +53,11 @@ A few things I've written on CodePen
 ## 📝 Latest blog posts
 
 <!-- HASHNODE:START -->
+- [Navigation underline animation](https://dev.to/nicm42/navigation-underline-animation-3778)
 - [Trying AI autocomplete](https://dev.to/nicm42/trying-ai-autocomplete-2bhc)
 - [Moving elements with JavaScript](https://dev.to/nicm42/moving-elements-with-javascript-f0j)
 - [Transitioning display: none](https://dev.to/nicm42/transitioning-display-none-10kk)
 - [Styling sibling hover and none hover](https://dev.to/nicm42/styling-sibling-hover-and-none-hover-5bdl)
-- [The scripting media query](https://dev.to/nicm42/the-scripting-media-query-2i7g)
 <!-- HASHNODE:END -->
 
 [...more blog posts](https://nicm42.hashnode.dev/)
